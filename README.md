@@ -12,5 +12,5 @@
 9. Write a query which phone support 5G and also Top5 phones with 5G support<Br>
 10. Total price of all mobile is to be found with brand name<Br>
 
-&#9889;</span> Note - Dashboard has been created for better visualization<Br>
+&#9889;</span> Note - Dashboard has been created for better visualization in PowerBI<Br>
 -- END-- 
